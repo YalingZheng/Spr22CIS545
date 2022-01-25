@@ -13,7 +13,7 @@ void Spin(){
    
    while (1) {
 	   time_t end = time(NULL);
-	   if (end-begin >= 1000){
+	   if (end-begin >= 1){
 		   break;
 	   }	  
    }

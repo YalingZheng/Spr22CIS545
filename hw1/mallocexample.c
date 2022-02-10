@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@YalingZheng 
-YalingZheng
-/
-Spr22CIS545
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Spr22CIS545/hw1/mallocexample.c
-@YalingZheng
-YalingZheng Add files via upload
-Latest commit ba08c0e 18 hours ago
- History
- 1 contributor
-53 lines (41 sloc)  1.46 KB
-   
 #include <stdio.h>
 #include <stdlib.h>
  
@@ -80,16 +51,4 @@ int main()
  
     return 0;
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+

@@ -1,0 +1,16 @@
+
+yazheng@spirit:~/operatingsystems$ ./forkexample5
+before 1st fork    1402487 as Parent!
+before 1st fork    1402488 as Child! parent is 1402487
+before 2nd fork    1402487 as Parent!
+before 2nd fork    1402488 as Parent!
+before 3rd fork   1402487 as Parent!
+before 2nd fork    1402489 as Child! parent is 1402487
+before 2nd fork    1402490 as Child! parent is 1402488
+before 3rd fork   1402491 as Child! parent is 1402487
+before 3rd fork   1402488 as Parent!
+before 3rd fork   1402492 as Child! parent is 1402488
+before 3rd fork   1402489 as Parent!
+before 3rd fork   1402490 as Parent!
+before 3rd fork   1402493 as Child! parent is 1402489
+before 3rd fork   1402494 as Child! parent is 1402490

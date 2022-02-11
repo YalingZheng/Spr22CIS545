@@ -1,16 +1,15 @@
+after main    1406119 as Parent!
+after 1st fork    1406119 as Parent!
+after main    1406120 as Child! parent is 1406119
+after 1st fork    1406121 as Child! parent is 1406119
+after 2nd fork   1406119 as Parent!
+after 1st fork    1406120 as Parent!
+after 2nd fork   1406122 as Child! parent is 1406119
+after 2nd fork   1406121 as Parent!
+after 1st fork    1406123 as Child! parent is 1406120
+after 2nd fork   1406120 as Parent!
+after 2nd fork   1406125 as Child! parent is 1406120
+after 2nd fork   1406123 as Parent!
+after 2nd fork   1406124 as Child! parent is 1406121
+after 2nd fork   1406126 as Child! parent is 1406123
 
-yazheng@spirit:~/operatingsystems$ ./forkexample5
-before 1st fork    1402487 as Parent!
-before 1st fork    1402488 as Child! parent is 1402487
-before 2nd fork    1402487 as Parent!
-before 2nd fork    1402488 as Parent!
-before 3rd fork   1402487 as Parent!
-before 2nd fork    1402489 as Child! parent is 1402487
-before 2nd fork    1402490 as Child! parent is 1402488
-before 3rd fork   1402491 as Child! parent is 1402487
-before 3rd fork   1402488 as Parent!
-before 3rd fork   1402492 as Child! parent is 1402488
-before 3rd fork   1402489 as Parent!
-before 3rd fork   1402490 as Parent!
-before 3rd fork   1402493 as Child! parent is 1402489
-before 3rd fork   1402494 as Child! parent is 1402490

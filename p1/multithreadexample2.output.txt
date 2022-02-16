@@ -1,0 +1,18 @@
+yazheng@spirit:~/operatingsystems$ ./multithreadexample2
+Thread 1 Summation of sqrt(2) to sqrt(3) =  3.146264
+Thread 0 Summation of sqrt(1) to sqrt(1) =  1.000000
+Thread 2 Summation of sqrt(4) to sqrt(4) =  2.000000
+Thread 3 Summation of sqrt(5) to sqrt(6) =  4.685558
+Thread 4 Summation of sqrt(7) to sqrt(7) =  2.645751
+Thread 5 Summation of sqrt(8) to sqrt(9) =  5.828427
+Thread 6 Summation of sqrt(10) to sqrt(10) =  3.162278
+Thread 7 Summation of sqrt(11) to sqrt(12) =  6.780726
+Returned value 0 - The thread joined successfully
+Returned value 0 - The thread joined successfully
+Returned value 0 - The thread joined successfully
+Returned value 0 - The thread joined successfully
+Returned value 0 - The thread joined successfully
+Returned value 0 - The thread joined successfully
+Returned value 0 - The thread joined successfully
+Returned value 0 - The thread joined successfully
+final result: 29.249005

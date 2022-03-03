@@ -1,6 +1,11 @@
 Please read the pdf file (Introduction and Project 1: Threads).  This pdf file was written by Ben Pfaff. 
 
 Please log in to grail.eecs.csuohio.edu, and then ssh to spirit (or other machine), and copy the tar file under your local directory
+execute 
+$ tar xvf pintos.tar
+
+And you will see the unzipped files and directories
+
 Change corresponding file(s), such as devices/timer.c methods
 timer_sleep
 timer_interrupt

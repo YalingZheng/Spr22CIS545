@@ -2,7 +2,7 @@ Please read the pdf file (Introduction and Project 1: Threads).  This pdf file w
 
 Please log in to grail.eecs.csuohio.edu, and then ssh to spirit (or other machine), and copy the tar file under your local directory
 execute 
-$ tar xvf pintos.tar
+$ unzip pintos-cis545.zip
 
 And you will see the unzipped files and directories
 
